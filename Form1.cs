@@ -14,6 +14,7 @@ namespace miQuintaApp
     {
         public frmFormulario()
         {
+            //Hola Raul
             InitializeComponent();
         }
 
